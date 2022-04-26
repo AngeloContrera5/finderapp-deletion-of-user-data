@@ -12,6 +12,7 @@ The app does use third party services that may collect information used to ident
 
 * Send an email to contacto.finderapp@gmail.com with the subject "Removal of user information from Finder"
 * Write the exact reason for the decision to delete the information from Finder
+* Write the email used at the time of registering in the application. In the case if you have sign in with google or facebook write the email used at the time of registering in the social media
 * Optional attach images or screenshots of any reason why you made the decision to remove information from Finder
 
 
